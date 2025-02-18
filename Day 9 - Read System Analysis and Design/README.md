@@ -1,1 +1,0 @@
-# Today I just read this book for capstone project related to AI automation
