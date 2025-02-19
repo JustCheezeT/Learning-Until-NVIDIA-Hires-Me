@@ -1,0 +1,1 @@
+Today I read a little more books and just work on the test cases for the project. I'll gather resources to describe the project later
